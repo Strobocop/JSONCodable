@@ -86,6 +86,7 @@
 		BD885BBD1D17358E00CA767A /* EncodeNestingTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EncodeNestingTests.swift; sourceTree = "<group>"; };
 		BD885BBF1D173A0700CA767A /* PropertyItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PropertyItem.swift; sourceTree = "<group>"; };
 		BDD667CB1D1F3572003F94D7 /* Messages.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Messages.swift; sourceTree = "<group>"; };
+		E46031121DF1410700FD6D7C /* JSONCodable.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = JSONCodable.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -192,6 +193,7 @@
 		9EDF800F1B59CFCE00E4A2D6 = {
 			isa = PBXGroup;
 			children = (
+				E46031121DF1410700FD6D7C /* JSONCodable.podspec */,
 				9EDB393B1B59D0AF00C63019 /* JSONCodable */,
 				9EDB39081B59D00B00C63019 /* Supporting Files */,
 				9E455BF81BCE185B00070A4F /* JSONCodableTests */,
